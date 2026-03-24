@@ -2,7 +2,18 @@
 
 Uma plataforma de e-commerce completa com frontend React 18 e backend Laravel 12.
 
-## 📁 Estrutura do Projeto
+## � Screenshots
+
+![Página de Produto](./print1.png)
+*Página de detalhes do produto com imagem, descrição, preço e opções de compra*
+
+![Tela de Compra](./print2.png)
+*Checkout com carrinho e formulário de finalização de pedido*
+
+![Catálogo de Produtos](./print3.png)
+*Homepage com listagem de 30 produtos, filtros por categoria e busca*
+
+## �📁 Estrutura do Projeto
 
 ```
 E-commerce Project/
